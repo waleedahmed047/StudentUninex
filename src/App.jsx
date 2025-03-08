@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import Layout from "./pages/Layout/Layout";
 import Login from "./pages/Login/Login";
 import SignUp from "./pages/SignUp/SignUp";
-import Dashboard from "./pages/Dashboard/Dashboard";
+import Dashboard from "./pages/Dashboard/dashboard";
 import Messages from "./pages/Messages/Messages";
 import Job from "./pages/Job/Job";
 import Support from "./pages/Support/Support";
