@@ -10,7 +10,7 @@ import {
 import { Visibility, VisibilityOff } from "@mui/icons-material"; 
 import { useNavigate } from "react-router-dom";
 import "./SignUp.css";
-import Logo from "../../assets/login/logo.svg";
+import Logo from "../../assets/login/Logo.svg";
 
 export default function SignUp() {
   const [showPassword, setShowPassword] = useState(false);

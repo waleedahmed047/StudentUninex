@@ -5,7 +5,7 @@ import {
   Typography
 } from "@mui/material";
 import './Login.css'
-import Logo from '../../assets/login/logo.svg'
+import Logo from '../../assets/login/Logo.svg'
 import { useNavigate } from 'react-router-dom';
 
 export default function Login() {
