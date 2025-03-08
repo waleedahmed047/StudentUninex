@@ -1,0 +1,105 @@
+.job-description-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.job-description-container-left {
+  width: 75%;
+  background-color: var(--bg-color);
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 600px;
+  height: 100% !important;
+}
+
+.job-description-container-left-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.job-description-potion {
+  display: flex;
+  margin-top: 10px;
+  flex-direction: row;
+  /* color: var(--text-color); */
+}
+
+.job-description-image img {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+
+.job-description-name {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.job-description-project-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.job-description-project-name h2 {
+  margin: 0%;
+  color: var(--text-color);
+  font-size: 20px;
+}
+
+.job-description-project-name p {
+  margin: 0%;
+  margin-top: 5px;
+  font-size: 12px;
+  color: var(--text-color);
+}
+
+.project-description-more-detail {
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.project-description-more-detail-span {
+  color: var(--text-color);
+}
+.project-description-more-detail-p {
+  font-size: 13px;
+  color: var(--text-color);
+}
+.job-description-container-right {
+  width: 25%;
+  /* padding: 0% 2%; */
+}
+.job-description-container-right-header {
+  background-color: var(--bg-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.job-description-container-right-header h1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-color);
+  margin: 0px;
+}
+.job-description-container-right-allJobs {
+  margin-top: 20px;
+  overflow-y: scroll; /* Enables scrolling */
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none;
+  height: 700px; /* For Internet Explorer */
+}
+
+.job-description-container-right-allJobs::-webkit-scrollbar {
+  display: none; /* Hides scrollbar for Webkit browsers (Chrome, Safari, Edge) */
+}

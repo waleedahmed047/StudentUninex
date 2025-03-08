@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG053fSK6lEaRgkWQJU74L7F6Wh_YMOWsAfQ&s",
+      "title": "HTML Optimization and Performance",
+      "time": "30m",
+      "status": "Completed",
+      "category": "Frontend",
+      "details": "This quiz covers optimization and performance techniques in HTML."
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqks6bkM4tTJy69jDFqLrsOj9gRphGaB8Deg&s",
+      "title": "CSS Layouts",
+      "time": "20m",
+      "status": "Pending",
+      "category": "Frontend",
+      "details": "Learn about advanced CSS layout techniques."
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKbsaUPoOMDMs2_vDQDwsZokGZ2kPdM6SwYg&s",
+      "title": "JavaScript Fundamentals",
+      "time": "40m",
+      "status": "Failed",
+      "category": "Frontend",
+      "details": "Covers key JavaScript concepts for web development."
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s",
+      "title": "React Basics",
+      "time": "35m",
+      "status": "Completed",
+      "category": "Frontend",
+      "details": "An introduction to building components with React."
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtb_9zVzsPWq_LDNDBVCsBYFo996KtVyCxWg&s",
+      "title": "Node.js Essentials",
+      "time": "45m",
+      "status": "Pending",
+      "category": "Backend",
+      "details": "Learn about essential Node.js modules and features."
+    },
+    {
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMFiRaIiYI3H3ZMmDoG4nSAm8XhO1tF0-WQ&s",
+      "title": "Database Optimization",
+      "time": "25m",
+      "status": "Failed",
+      "category": "Backend",
+      "details": "Focus on SQL optimization and indexing techniques."
+    },
+    {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZVYdXQW9wyr4ce2ehkyOprzV2Jb-iMifSA&s",
+      "title": "Python for Data Analysis",
+      "time": "50m",
+      "status": "Completed",
+      "category": "Data Science",
+      "details": "Explores Python libraries like Pandas and NumPy."
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnGBSycF1Af5dMVgka1cTFUWjP_oSc3SBHw&s",
+      "title": "Machine Learning Basics",
+      "time": "60m",
+      "status": "Pending",
+      "category": "Data Science",
+      "details": "Covers supervised and unsupervised learning techniques."
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNifwQTjgA_Q1tVW-oWG5sHdukFnnOF895UQ&s",
+      "title": "Cloud Computing Fundamentals",
+      "time": "30m",
+      "status": "Failed",
+      "category": "Cloud",
+      "details": "Covers the basics of cloud services like AWS, Azure, and GCP."
+    },
+    {
+      "id": 10,
+      "img": "https://omdia.tech.informa.com/-/media/tech/omdia/omdia-website-enhancement-oct-2023/cybersecurity-coverage-2.jpg?rev=9ebd97b3e7e1460e93c01339d19caf61",
+      "title": "Cybersecurity Basics",
+      "time": "40m",
+      "status": "Completed",
+      "category": "Security",
+      "details": "Learn about common threats and security best practices."
+    }
+  ]
+  

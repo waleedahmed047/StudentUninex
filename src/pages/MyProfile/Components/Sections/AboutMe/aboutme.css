@@ -1,0 +1,67 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h2 {
+  font-size: 20px;
+  color: var(--text-color);
+  margin: 0px !important;
+}
+
+.about-text {
+  margin-top: 5px;
+  font-size: 14px;
+  color: var(--about-paragraph-color);
+}
+
+.read-more-button {
+  color: var(--primary-color);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  width: fit-content;
+}
+
+.modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  padding: 20px;
+  background-color: var(--bg-color) !important;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: var(--text-color);
+}
+
+.modal-actions {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.text-field {
+  color: var(--text-color) !important;
+}
+.text-field .MuiInputBase-input {
+  color: var(--text-color) !important;
+}
+
+.text-field .MuiInputBase-inputMultiline {
+  color: var(--text-color) !important;
+}
+
+.text-field .MuiInputBase-input::placeholder {
+  color: var(--text-color) !important;
+}
+
+.modal-actions button {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.modal-actions button:hover {
+  background-color: #0056b3;
+}

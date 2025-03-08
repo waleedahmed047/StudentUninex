@@ -1,0 +1,41 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+}
+.navbarContent {
+  height: 10vh;
+}
+
+.main {
+  width: calc(100% - 250px);
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  background-color: var(--content-bg-color);
+  color: var(--text-color);
+  box-shadow: 0 2px 5px var(--shadow-color);
+  height: 90vh;
+}
+.sidebar-content {
+  width: 18%;
+  padding: 10px;
+}
+.content-render {
+  width: 82%;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.content-render::-webkit-scrollbar {
+  display: none;
+}
+
+.content-render {
+  scrollbar-width: none;
+}

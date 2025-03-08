@@ -1,0 +1,154 @@
+.job-main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 20px;
+}
+
+.job-search-header {
+  background-color: var(--primary-color);
+  padding: 2% 5%;
+  border-radius: 10px;
+  background-image: url("../../assets/job-Icons/searchHeader.svg");
+  background-repeat: no-repeat;
+}
+
+.job-main-right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+}
+
+.job-search-header h1 {
+  color: var(--bg-color);
+  font-size: 26px;
+  font-weight: 600;
+  margin: 0%;
+  margin-top: 10px;
+}
+
+.job-search-header p {
+  color: var(--bg-color);
+  font-size: 16px;
+  font-weight: 400;
+  width: 60%;
+  margin: 0%;
+  margin-top: 10px;
+}
+.job-searchbox {
+  background-color: #ffffffb2;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+}
+.job-searchbox img {
+  align-items: center;
+  justify-content: start;
+}
+.job-searchbox input {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  color: var(--placeholder-color);
+}
+.job-searchbox input::placeholder {
+  color: var(--placeholder-color);
+}
+.job-header-left {
+  display: flex;
+  flex-direction: row;
+}
+
+.job-main-left {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  background-color: var(--bg-color);
+  padding: 0px 20px;
+  color: var(--text-color);
+  height: fit-content;
+}
+
+.job-left-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.job-left-header h1 {
+  font-size: 18px;
+}
+.clear-all-button-filter {
+  background-color: transparent !important;
+  color: var(--active-button-color) !important;
+  border: none !important;
+  cursor: pointer !important;
+  font-size: 14px !important;
+  text-transform: none !important;
+}
+
+.custom-slider {
+  width: 90%;
+}
+
+.custom-slider .MuiSlider-thumb {
+  background-color: white;
+  border: 2px solid var(--active-button-color);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.custom-slider .MuiSlider-thumb.Mui-active {
+  box-shadow: 0 0 10px rgba(0, 128, 0, 0.5);
+}
+
+.custom-slider .MuiSlider-track {
+  background-color: var(--active-button-color);
+}
+
+.custom-slider .MuiSlider-mark {
+  background-color: var(--active-button-color);
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+
+.filter-for-jobs {
+  margin-top: 10px;
+}
+
+.filter-for-jobs {
+  margin-top: 20px;
+}
+
+.filter-section {
+  margin-bottom: 30px;
+}
+
+.filter-section .MuiFormControlLabel-label {
+  font-size: 1rem;
+  color: #333;
+}
+
+.filter-section .MuiCheckbox-root {
+  color: var(--placeholder-color);
+}
+.custom-checkbox {
+  color: #ccc;
+}
+
+.custom-checkbox.Mui-checked {
+  color: red;
+}
+
+.custom-checkbox-label {
+  font-size: 12px !important;
+}
+
+.custom-checkbox-label .MuiTypography-root {
+  font-size: 12px !important;
+}

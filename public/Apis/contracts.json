@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "companyName": "Tech Innovators",
+      "companyImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-C_UAhXq9GfuGO452EEzfbKnh1viQB9EDBQ&s",
+      "contractName": "Website Development Contract",
+      "contractDuration": "12 Months",
+      "amount": "$50,000",
+      "status": "Active",
+      "contractType": "Fixed Price",
+      "contractTitle": "Corporate Website Development",
+      "contractDescription": {
+        "features": [
+          "Responsive web design",
+          "SEO optimization",
+          "CMS integration",
+          "E-commerce capabilities",
+          "24/7 support"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "companyName": "Digital Solutions Ltd",
+      "companyImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUE4mGQ_-C4gvhWDRGVFLL9PrQsFyNbE_KtQ&s",
+      "contractName": "Mobile App Development",
+      "contractDuration": "8 Months",
+      "amount": "$80,000",
+      "status": "Pending",
+      "contractType": "Time & Material",
+      "contractTitle": "Custom Mobile Application",
+      "contractDescription": {
+        "features": [
+          "Cross-platform compatibility",
+          "User-friendly interface",
+          "Push notifications",
+          "Secure payment gateway",
+          "Real-time analytics"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "companyName": "Cloud Services Inc",
+      "companyImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDo890dsxpB5UCLQFdVBWmK4qVxTrsrLEEUg&s",
+      "contractName": "Cloud Infrastructure Setup",
+      "contractDuration": "6 Months",
+      "amount": "$120,000",
+      "status": "Completed",
+      "contractType": "Retainer",
+      "contractTitle": "Enterprise Cloud Migration",
+      "contractDescription": {
+        "features": [
+          "Cloud server setup",
+          "Data migration",
+          "24/7 monitoring",
+          "Disaster recovery",
+          "Scalability support"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "companyName": "GreenTech Enterprises",
+      "companyImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR132TBAD0-GhGhN8_2Xr-3obkFd4NzFbk6Hg&s",
+      "contractName": "Sustainable Energy Consulting",
+      "contractDuration": "18 Months",
+      "amount": "$200,000",
+      "status": "Active",
+      "contractType": "Fixed Price",
+      "contractTitle": "Renewable Energy Solutions",
+      "contractDescription": {
+        "features": [
+          "Solar panel installation",
+          "Energy audits",
+          "Custom sustainability strategies",
+          "Government incentives assistance",
+          "ROI analysis"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "companyName": "Smart Home Solutions",
+      "companyImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQtU0EeERuuyzhtjFYQuZR7q_JQAEpJYE5Q&s",
+      "contractName": "Home Automation System",
+      "contractDuration": "4 Months",
+      "amount": "$15,000",
+      "status": "In Progress",
+      "contractType": "Fixed Price",
+      "contractTitle": "Smart Home Installation",
+      "contractDescription": {
+        "features": [
+          "Voice-controlled systems",
+          "Remote access via app",
+          "Energy-saving features",
+          "Smart lighting setup",
+          "Security system integration"
+        ]
+      }
+    }
+  ]
+  

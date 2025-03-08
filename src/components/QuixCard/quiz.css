@@ -1,0 +1,66 @@
+.quiz-card {
+  width: 200px;
+  height: 250px;
+  background-color: var(--bg-color);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.quiz-card-img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.quiz-card-title {
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+  color: var(--text-color);
+}
+.quiz-card-time {
+  color: var(--text-color);
+}
+.quiz-card-btn {
+  width: 120px;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.quiz-card-btn.completed {
+  background-color: transparent;
+  color: var(--successfull-color);
+}
+
+.quiz-card-btn.failed {
+  background-color: transparent;
+  color: var(--failed-color);
+  border: 1px solid var(--failed-color);
+}
+
+.quiz-card-btn.pending {
+  background-color: transparent;
+  color: var(--active-button-color);
+  border: 1px solid var(--active-button-color);
+}
+
+.failed {
+  color: var(--failed-color);
+  margin: 0%;
+}
+.passed {
+  color: var(--successfull-color);
+  margin: 0%;
+}
+.quiz-status {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}

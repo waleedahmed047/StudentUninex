@@ -1,0 +1,22 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--content-bg-color);
+}
+.main-container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 10px 0px 10px;
+  gap: 10px;
+}
+.sidebar-main {
+  width: 15%;
+}
+.content {
+  height: 89vh;
+  overflow: auto;
+  width: 85%;
+}
+.content::-webkit-scrollbar {
+  width: 0px;
+}

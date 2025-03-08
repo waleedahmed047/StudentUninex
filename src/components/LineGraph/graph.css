@@ -1,0 +1,6 @@
+.analytic-graph{
+    background-color: var(--bg-color);
+    padding: 20px 10px;
+    border-radius: 10px;
+    border: 1px dashed var(--border-color);
+}

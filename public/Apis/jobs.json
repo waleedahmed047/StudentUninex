@@ -1,0 +1,26 @@
+[
+  {
+    "logo": "https://dummyimage.com/50x50/000/fff&text=TS",
+    "title": "Frontend Developer",
+    "company": "Tech Solution",
+    "experience": "1-2 Years",
+    "salary": "500$-1500$/Month",
+    "date": "23 April 2024",
+    "type": "Full Time",
+    "location": "Remote",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Learn More...",
+    "interest": "150"
+  },
+  {
+    "logo": "https://dummyimage.com/50x50/007bff/fff&text=CS",
+    "title": "Backend Developer",
+    "company": "Code Studio",
+    "experience": "2-3 Years",
+    "salary": "700$-2000$/Month",
+    "date": "25 April 2024",
+    "type": "Part Time",
+    "location": "Onsite",
+    "description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, making it look like readable English.",
+    "interest": "100"
+  }
+]

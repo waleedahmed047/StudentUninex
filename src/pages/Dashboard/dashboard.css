@@ -1,0 +1,29 @@
+.dashboard-main {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.card-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.dashboard-main-left {
+  width: 75%;
+}
+
+.dashboard-main-right {
+  width: 25%;
+}
+
+.dashboard-profile-view-analytic {
+  margin-top: 10px;
+}
+
+.dashboard-profile-view-analytic h1 {
+  font-size: 20px;
+  color: var(--text-color);
+}

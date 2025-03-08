@@ -1,0 +1,45 @@
+.notification-item {
+    display: flex;
+    align-items: center;
+    background: var(--bg-color);
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .notification-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-avatar {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .notification-content {
+    flex: 1;
+  }
+  
+  .user-name {
+    font-weight: bold;
+    font-size: 16px;
+    color: var(--text-color);
+  }
+  
+  .message {
+    font-size: 14px !important;
+    color: var(--placeholder-color);
+  }
+  
+  .timestamp {
+    font-size: 12px !important;
+    color: var(--placeholder-color);
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+  }
+  

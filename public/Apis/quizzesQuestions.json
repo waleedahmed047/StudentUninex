@@ -1,0 +1,174 @@
+[
+    {
+      "id": 1,
+      "title": "HTML Optimization and Performance",
+      "time":30,
+      "questions": [
+        {
+          "question": "What does the 'defer' attribute in a script tag do?",
+          "options": [
+            "Executes the script immediately after loading",
+            "Delays script execution until the HTML document is fully parsed",
+            "Blocks HTML parsing until the script is loaded and executed",
+            "None of the above"
+          ],
+          "answer": "Delays script execution until the HTML document is fully parsed"
+        },
+        {
+          "question": "Which of the following reduces image load time?",
+          "options": [
+            "Using <picture> for responsive images",
+            "Embedding large images directly in HTML",
+            "Using GIF for all images",
+            "Loading all images synchronously"
+          ],
+          "answer": "Using <picture> for responsive images"
+        },
+        {
+          "question": "What is the primary purpose of a Content Delivery Network (CDN)?",
+          "options": [
+            "To improve website security",
+            "To cache content closer to users",
+            "To provide hosting services",
+            "To serve only HTML files"
+          ],
+          "answer": "To cache content closer to users"
+        },
+        {
+          "question": "Which of these techniques improves HTML performance?",
+          "options": [
+            "Minifying HTML",
+            "Using inline CSS extensively",
+            "Using multiple <style> tags",
+            "Avoiding semantic HTML tags"
+          ],
+          "answer": "Minifying HTML"
+        },
+        {
+          "question": "What is lazy loading?",
+          "options": [
+            "Loading resources only when needed",
+            "Loading all images upfront",
+            "Avoiding the use of async scripts",
+            "None of the above"
+          ],
+          "answer": "Loading resources only when needed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "CSS Layouts",
+      "time":20,
+      "questions": [
+        {
+          "question": "Which CSS property is used for a flex container?",
+          "options": [
+            "display: flex",
+            "flex: container",
+            "grid: flex",
+            "container: flex"
+          ],
+          "answer": "display: flex"
+        },
+        {
+          "question": "What is the default value of the 'flex-direction' property?",
+          "options": [
+            "row",
+            "column",
+            "row-reverse",
+            "column-reverse"
+          ],
+          "answer": "row"
+        },
+        {
+          "question": "Which of these is NOT a valid CSS Grid property?",
+          "options": [
+            "grid-template-columns",
+            "grid-gap",
+            "grid-items",
+            "grid-auto-rows"
+          ],
+          "answer": "grid-items"
+        },
+        {
+          "question": "How do you center a div using flexbox?",
+          "options": [
+            "justify-content: center; align-items: center;",
+            "margin: auto;",
+            "align-content: center;",
+            "display: block;"
+          ],
+          "answer": "justify-content: center; align-items: center;"
+        },
+        {
+          "question": "What does the 'z-index' property do?",
+          "options": [
+            "Controls the stacking order of elements",
+            "Specifies the zoom level",
+            "Sets the transparency level",
+            "Defines the horizontal alignment of elements"
+          ],
+          "answer": "Controls the stacking order of elements"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Fundamentals",
+      "time":12,
+      "questions": [
+        {
+          "question": "Which data type is NOT supported in JavaScript?",
+          "options": [
+            "String",
+            "Number",
+            "Double",
+            "Boolean"
+          ],
+          "answer": "Double"
+        },
+        {
+          "question": "What is the purpose of 'use strict' in JavaScript?",
+          "options": [
+            "Enforces stricter parsing and error handling",
+            "Declares a variable",
+            "Specifies the return type of a function",
+            "None of the above"
+          ],
+          "answer": "Enforces stricter parsing and error handling"
+        },
+        {
+          "question": "Which method is used to convert a JSON string to an object?",
+          "options": [
+            "JSON.parse()",
+            "JSON.stringify()",
+            "JSON.objectify()",
+            "JSON.convert()"
+          ],
+          "answer": "JSON.parse()"
+        },
+        {
+          "question": "What is the output of `typeof null`?",
+          "options": [
+            "object",
+            "null",
+            "undefined",
+            "number"
+          ],
+          "answer": "object"
+        },
+        {
+          "question": "Which keyword is used to define a variable that cannot be reassigned?",
+          "options": [
+            "let",
+            "const",
+            "var",
+            "static"
+          ],
+          "answer": "const"
+        }
+      ]
+    }
+  ]
+  

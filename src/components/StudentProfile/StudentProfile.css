@@ -1,0 +1,75 @@
+.dashboard-student-profile-view {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-color);
+  border-radius: 10px;
+}
+
+.dashboard-student-profile-view-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40%;
+  border-bottom: 1px solid var(--subtitle-color);
+  margin: 0px 15px;
+}
+
+.dashboard-student-profile-view-header h1 {
+  color: var(--text-color);
+  font-size: 20px;
+  padding: 0%;
+  margin: 0%;
+  margin-top: 5px;
+}
+
+.dashboard-student-profile-view-header p {
+  color: var(--subtitle-color);
+  font-size: 12px;
+  padding: 0%;
+  margin: 0%;
+  margin-top: 5px;
+}
+
+.dashboard-student-profile-recent-activities {
+  padding: 15px;
+}
+
+.dashboard-student-profile-recent-activities h3 {
+  font-size: 20px;
+  padding: 0%;
+  margin: 0%;
+  margin-bottom: 10px;
+  color: var(--text-color);
+}
+.student-profile-view-header-image {
+  width: 130px !important;
+  height: 130px !important;
+}
+
+.dashboard-student-profile-recent-activities p {
+  font-size: 12px;
+  padding: 0%;
+  margin: 0%;
+  color: var(--text-color);
+}
+
+.dashboard-student-profile-recent-activities span {
+  font-size: 10px;
+  padding: 0%;
+  color: var(--text-color);
+
+  margin: 0%;
+}
+
+.activity-item {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 15px;
+}
+.activity-icon-main {
+  width: 50px !important;
+  height: 50px !important;
+}

@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+:root {
+  --bg-color: #ffffff;
+  --main-bg-color: #ffffff;
+  --text-color: #202834;
+  --primary-color: #00cef3;
+  --shadow-color: rgba(0, 0, 0, 0.2);
+  --hover-color: #0056b3;
+  --content-bg-color: #f2f4ff;
+  --border-color: #454f5b;
+  --sidebar-text-color: #fff;
+  --button-hover-color: #00cef3; /* Green for hover */
+  --active-button-color: #00cef3;
+  --card-titl-color: #8f8f8fcc;
+  --subtitle-color: #777777;
+  --placeholder-color: #a1a1a1;
+  --contract-box-color: #00b8d933;
+  --successfull-color: #32bf74;
+  --failed-color: #f27678;
+  --about-paragraph-color: #555;
+  --card-title: #202834;
+  --card-subtitle: #202834cc;
+  --scouting-chip: #32bf7433;
+  --scouting-chip-border: #32bf74;
+  --divider-color: #e0e0e0;
+  --view-more-color: #dbe1e9;
+  --search-background: #2028341a;
+  --input-color: #cacaca;
+  --input-placeholder-color: #3f3f3f;
+  --contract-detail-color: #f9fbfc;
+}
+
+/* Dark Theme */
+[data-theme="dark"] {
+  --bg-color: #0d0d0d;
+  --main-bg-color: #131313;
+  --text-color: #d4d4d4;
+  --subtitle-color: #c4c4c4;
+  --primary-color: #00cef3;
+  --shadow-color: rgba(255, 255, 255, 0.1);
+  --hover-color: #3700b3;
+  --content-bg-color: #131313;
+  --card-titl-color: #ffffffcc;
+  --about-paragraph-color: #e2e2e2;
+  --card-title: #ffffff;
+  --card-subtitle: #afafaf;
+  --divider-color: #797979;
+  --view-more-color: #1d1d1d;
+  --border-color: #929292;
+  --search-background: #75767965;
+  --input-color: #808080;
+  --input-placeholder-color: #9c9c9c;
+  --contract-detail-color: #f9fbfc11;
+}
+
+/* Transitions */
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  background-color: var(--content-bg-color);
+}
+
+.text-color {
+  color: var(--text-color);
+}
+
+.divider {
+  background-color: var(--divider-color);
+}
+.icon {
+  filter: invert(0);
+  transition: filter 0.3s ease;
+}
+
+[data-theme="dark"] .icon {
+  filter: invert(1);
+}
+
+[data-theme="dark"] .button-selected .icon {
+  filter: invert(0) !important;
+  color: var(--primary-color);
+}
+
+.custom-input {
+  color: var(--input-color) !important;
+}
+
+.custom-input {
+  color: var(--input-color) !important;
+}
+
+.custom-input label,
+.custom-input input {
+  color: var(--input-color) !important;
+}
+
+.custom-input fieldset {
+  border-color: var(--input-color) !important;
+}
+
+.custom-input ::placeholder {
+  color: var(--input-placeholder-color) !important;
+}
+
+.h3 {
+  font-size: 14px;
+}
+
+.h4 {
+  font-size: 12px;
+}
+.p {
+  font-size: 12px;
+}
+.MuiButton-containedPrimary {
+  background-color: var(--active-button-color) !important;
+}

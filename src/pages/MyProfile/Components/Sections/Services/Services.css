@@ -1,0 +1,44 @@
+.modal-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.modal-box .MuiTextField-root {
+  margin-bottom: 20px;
+}
+
+.modal-box .MuiButtonBase-root {
+  min-width: 100px;
+}
+
+.services-heading {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  color: var(--text-color) !important;
+}
+
+.custom-list .MuiListItemText-primary {
+  color: var(--text-color) !important;
+}
+
+.text-field {
+  color: var(--text-color) !important;
+}
+.text-field .MuiInputBase-input {
+  color: var(--text-color) !important;
+}
+
+.text-field .MuiInputBase-inputMultiline {
+  color: var(--text-color) !important;
+}
+
+.text-field .MuiInputBase-input::placeholder {
+  color: var(--text-color) !important;
+}

@@ -1,0 +1,91 @@
+.job-apply-modal-main {
+  background-color: var(--bg-color);
+}
+.job-apply-modal-header {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  color: var(--text-color);
+}
+.job-apply-modal-header h1 {
+  margin: 0%;
+  font-size: 16px;
+  margin-left: 10px;
+}
+/* Wrapper container styling */
+.phone-input-container {
+  margin: 20px 0;
+}
+
+/* Label styling */
+.phone-input-label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  font-size: 14px;
+  color: var(--text-color);
+}
+.modal-file-name-job {
+  color: var(--text-color);
+}
+/* Input container styling */
+.phone-input-wrapper {
+  width: 100%;
+}
+
+/* Input field styling */
+.phone-input-field {
+  width: 100% !important;
+  height: 56px !important;
+  font-size: 16px !important;
+  border-color: #ccc !important;
+  border-radius: 4px !important;
+  padding-left: 48px !important; /* Space for the flag */
+}
+
+.phone-input-button {
+  border-radius: 4px 0 0 4px !important;
+  border: 1px solid #ccc !important;
+}
+
+/* Dropdown styling */
+.phone-input-dropdown {
+  border-radius: 4px !important;
+}
+.job-apply-profile-image {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+.job-apply-profile-image-detail h2 {
+  margin: 0%;
+  color: var(--text-color);
+}
+.job-apply-profile-image-detail p {
+  margin: 0%;
+  color: var(--text-color);
+  margin-top: 10px;
+}
+.job-apply-contact h1 {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-color);
+}
+.job-apply-modal-age {
+  margin-top: 20px;
+}
+.job-apply-modal-age label {
+  color: var(--text-color);
+}
+.phone-input-field {
+  font-size: 12px !important;
+  height: 30px !important;
+  padding: 20px 45px !important;
+  background-color: transparent !important;
+  color: var(--text-color);
+}
+
+.successfully-message {
+  color: var(--text-color);
+}

@@ -1,0 +1,72 @@
+.quiz-started-main {
+  background-color: var(--bg-color);
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+}
+.quiz-started-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.quiz-started-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.questionNo {
+  border: 1px solid #a3a3a333;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.selected-quiz-next-button {
+  /* width: 40%; */
+  display: flex;
+  align-items: start;
+  justify-content: start;
+}
+.selected-quiz-navigator {
+  border: 1px solid #b9b9b933;
+  background-color: #a2a2a20f;
+  border-radius: 10px;
+}
+.selected-quiz-navigator h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-color);
+  margin-top: 5px;
+}
+.selected-quiz-navigator p {
+  font-size: 12px;
+  color: var(--text-color);
+  margin: 5px;
+}
+.strong {
+  font-size: 16px;
+  color: #00cef3;
+}
+.selected-quiz-navigator-buttons {
+  border: 1px solid #b9b9b933;
+
+  background-color: #a2a2a20f;
+
+  height: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px 0px;
+}
+.question-title {
+  color: var(--text-color) !important;
+}
+
+.custom-radio .Mui-checked {
+  color: var(--primary-color) !important;
+}
+
+.custom-radio-label {
+  color: var(--text-color) !important;
+  font-size: 14px !important;
+}

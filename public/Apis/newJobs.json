@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Tech Solution",
+    "companyIntroduction": "Tech Solution is a leading technology company focused on providing innovative web development services to clients globally. We prioritize creativity, collaboration, and cutting-edge solutions.",
+    "type": "Full Time",
+    "experience": "1-2 Years",
+    "location": "Remote",
+    "salary": "500$-1500$",
+    "date": "23 April 2024",
+    "urgent": true,
+    "interest": 150,
+    "description": "As a frontend developer, you will be responsible for creating and maintaining web applications. You will collaborate with designers and backend developers to build visually appealing and user-friendly interfaces.",
+    "jobDescription": "The role involves working with JavaScript, HTML, and CSS to design and implement web pages. You will also interact with APIs, ensure cross-browser compatibility, and optimize web applications for performance.",
+    "responsibilities": [
+      "Develop and implement new user-facing features.",
+      "Ensure the technical feasibility of UI/UX designs.",
+      "Optimize web applications for maximum speed and scalability.",
+      "Collaborate with backend developers to integrate APIs.",
+      "Maintain and improve website performance."
+    ],
+    "skills": [
+      "Proficient in HTML, CSS, and JavaScript.",
+      "Experience with React or other JavaScript frameworks.",
+      "Familiar with version control systems (e.g., Git).",
+      "Good understanding of responsive design and web performance optimization.",
+      "Knowledge of RESTful APIs."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or a related field.",
+      "1-2 years of professional experience in frontend development.",
+      "Strong problem-solving skills and attention to detail.",
+      "Good communication skills and ability to work in a team environment."
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuNw1fDzeYGH2BFi4ufuCv2EORvqxoEMDdoA&s"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer",
+    "company": "Tech Solution",
+    "companyIntroduction": "Tech Solution is a dynamic company specializing in innovative software development and IT solutions. Our team is passionate about building cutting-edge technology to solve complex business problems.",
+    "type": "Full Time",
+    "experience": "Junior",
+    "location": "Onsite",
+    "salary": "500$-1000$",
+    "date": "22 April 2024",
+    "urgent": false,
+    "interest": 85,
+    "description": "As a junior frontend developer, you will support the senior team in building and maintaining web applications. You will be involved in designing user interfaces and ensuring smooth user experiences.",
+    "jobDescription": "This role will involve working with HTML, CSS, and JavaScript, as well as learning about modern frameworks and technologies like React. You will assist in troubleshooting issues and implementing small features.",
+    "responsibilities": [
+      "Assist in building and maintaining web applications.",
+      "Collaborate with the design team to create visually appealing and functional user interfaces.",
+      "Learn and implement best practices in frontend development.",
+      "Participate in code reviews and team meetings.",
+      "Ensure web applications are responsive and optimized for performance."
+    ],
+    "skills": [
+      "Familiarity with HTML, CSS, and JavaScript.",
+      "Basic understanding of frontend frameworks like React.",
+      "Willingness to learn and adapt to new technologies.",
+      "Attention to detail and problem-solving ability.",
+      "Good communication skills and teamwork."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or a related field.",
+      "Some experience or internships in frontend development.",
+      "Strong willingness to learn and grow as a developer.",
+      "Ability to work independently and as part of a team."
+    ],
+    "image": "https://images.pexels.com/photos/29832283/pexels-photo-29832283/free-photo-of-portrait-of-man-holding-a-plant-in-artistic-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer",
+    "company": "Innovatech Solutions",
+    "companyIntroduction": "Innovatech Solutions is a forward-thinking company focused on developing powerful backend systems for large-scale web applications. We believe in creating highly scalable and efficient solutions.",
+    "type": "Full Time",
+    "experience": "3-5 Years",
+    "location": "Remote",
+    "salary": "1000$-2000$",
+    "date": "20 April 2024",
+    "urgent": true,
+    "interest": 200,
+    "description": "As a backend developer, you will be responsible for designing, developing, and maintaining robust server-side applications. You will also work closely with frontend developers to ensure smooth data integration.",
+    "jobDescription": "The role requires expertise in server-side technologies, databases, and API design. You will be building scalable systems and implementing best practices in software architecture.",
+    "responsibilities": [
+      "Design and implement server-side logic and databases.",
+      "Develop and manage APIs for data exchange.",
+      "Optimize backend systems for performance and scalability.",
+      "Work with frontend teams to ensure seamless integration.",
+      "Monitor and troubleshoot backend services."
+    ],
+    "skills": [
+      "Strong knowledge of Node.js, Express, and database systems like MongoDB or SQL.",
+      "Experience with RESTful APIs and microservices architecture.",
+      "Familiar with containerization tools like Docker.",
+      "Ability to write clean, maintainable, and efficient code.",
+      "Good knowledge of security best practices in backend development."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or a related field.",
+      "3-5 years of experience in backend development.",
+      "Strong problem-solving skills and ability to work in a fast-paced environment.",
+      "Experience with cloud services like AWS or Azure."
+    ],
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Developer",
+    "company": "NextGen Technologies",
+    "companyIntroduction": "NextGen Technologies is a fast-growing tech company that provides end-to-end development solutions. We work with businesses to create innovative digital products from concept to launch.",
+    "type": "Full Time",
+    "experience": "2-4 Years",
+    "location": "Onsite",
+    "salary": "1000$-3000$",
+    "date": "18 April 2024",
+    "urgent": true,
+    "interest": 300,
+    "description": "As a full stack developer, you will be responsible for both frontend and backend development. You will design, develop, and maintain applications across the stack, from databases to user interfaces.",
+    "jobDescription": "The role involves working with various technologies across both frontend (React, Angular) and backend (Node.js, Express). You will also be responsible for managing databases and ensuring smooth deployment processes.",
+    "responsibilities": [
+      "Develop full stack applications using modern web technologies.",
+      "Collaborate with both frontend and backend teams.",
+      "Write unit and integration tests for your code.",
+      "Optimize application performance and security.",
+      "Ensure continuous integration and deployment."
+    ],
+    "skills": [
+      "Proficiency in both frontend and backend technologies (React, Node.js).",
+      "Experience with databases like MongoDB, MySQL.",
+      "Familiarity with version control tools (Git).",
+      "Knowledge of Docker and CI/CD pipelines.",
+      "Strong problem-solving and analytical skills."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "2-4 years of experience in full stack development.",
+      "Strong teamwork and communication skills.",
+      "Ability to work under tight deadlines."
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDo890dsxpB5UCLQFdVBWmK4qVxTrsrLEEUg&s"
+  },
+  {
+    "id": 5,
+    "title": "Data Scientist",
+    "company": "DataCrunch",
+    "companyIntroduction": "DataCrunch is an innovative data analytics company that helps businesses unlock the power of data. We specialize in machine learning, artificial intelligence, and big data analytics.",
+    "type": "Full Time",
+    "experience": "3-5 Years",
+    "location": "Remote",
+    "salary": "2000$-4000$",
+    "date": "15 April 2024",
+    "urgent": false,
+    "interest": 400,
+    "description": "As a data scientist, you will analyze large datasets to extract valuable insights. You will develop predictive models, work with machine learning algorithms, and assist in decision-making processes.",
+    "jobDescription": "The role involves using data science techniques and tools to work with structured and unstructured data. You will use your skills to develop machine learning models and provide actionable insights.",
+    "responsibilities": [
+      "Analyze and interpret complex data sets.",
+      "Build and deploy machine learning models.",
+      "Collaborate with business teams to identify data-driven solutions.",
+      "Create data visualizations and reports.",
+      "Stay updated on new trends and technologies in data science."
+    ],
+    "skills": [
+      "Strong knowledge of machine learning algorithms and statistical analysis.",
+      "Experience with Python, R, and data analysis libraries (e.g., Pandas, NumPy).",
+      "Familiarity with SQL and database management.",
+      "Ability to communicate complex data insights clearly.",
+      "Experience with data visualization tools like Tableau or Power BI."
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Data Science, Statistics, or a related field.",
+      "3-5 years of experience in data analysis or data science.",
+      "Experience with big data technologies (Hadoop, Spark).",
+      "Ability to work independently and manage multiple projects."
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
+  },
+  {
+    "id": 6,
+    "title": "UI/UX Designer",
+    "company": "Creative Solutions",
+    "companyIntroduction": "Creative Solutions is a design-focused company specializing in creating visually stunning digital products. We work with clients across industries to craft exceptional user experiences.",
+    "type": "Full Time",
+    "experience": "1-3 Years",
+    "location": "Onsite",
+    "salary": "800$-1500$",
+    "date": "12 April 2024",
+    "urgent": false,
+    "interest": 130,
+    "description": "As a UI/UX designer, you will be responsible for creating intuitive and visually appealing user interfaces. You will also conduct user research, create wireframes, and collaborate with developers to ensure the best user experience.",
+    "jobDescription": "The role involves designing user interfaces, conducting usability tests, and creating prototypes. You will work with product managers and engineers to implement design solutions.",
+    "responsibilities": [
+      "Design user interfaces for web and mobile applications.",
+      "Create wireframes, prototypes, and user flows.",
+      "Conduct user research and usability tests.",
+      "Collaborate with developers to ensure design consistency.",
+      "Stay updated with design trends and best practices."
+    ],
+    "skills": [
+      "Proficiency in design tools like Sketch, Figma, and Adobe XD.",
+      "Strong understanding of UX/UI principles.",
+      "Experience with responsive and mobile-first design.",
+      "Ability to create wireframes, prototypes, and design systems.",
+      "Excellent communication and teamwork skills."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Graphic Design, UX/UI Design, or related field.",
+      "1-3 years of experience in UI/UX design.",
+      "Strong portfolio showcasing design work.",
+      "Ability to work in a collaborative team environment."
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi02EuCM4mZkPT_fI9ZMVhhnGxKY-GyZr7Cw&s"
+  },
+  {
+    "id": 7,
+    "title": "Product Manager",
+    "company": "Product Innovations",
+    "companyIntroduction": "Product Innovations is a leading product development company specializing in turning ideas into successful products. We work closely with clients to define, design, and deliver market-leading solutions.",
+    "type": "Full Time",
+    "experience": "4-6 Years",
+    "location": "Onsite",
+    "salary": "1500$-3000$",
+    "date": "10 April 2024",
+    "urgent": false,
+    "interest": 90,
+    "description": "As a product manager, you will oversee the development and lifecycle of a product from concept to launch. You will work closely with cross-functional teams to define product features and ensure timely delivery.",
+    "jobDescription": "The role involves leading the product roadmap, gathering requirements, and collaborating with marketing and engineering teams to deliver successful products.",
+    "responsibilities": [
+      "Define and manage the product roadmap.",
+      "Work closely with engineering and design teams.",
+      "Gather and prioritize product requirements.",
+      "Analyze market trends and competitor products.",
+      "Monitor and report on product performance."
+    ],
+    "skills": [
+      "Strong project management and leadership skills.",
+      "Experience with Agile methodologies.",
+      "Excellent communication and negotiation skills.",
+      "Strong problem-solving and decision-making abilities.",
+      "Ability to work in a fast-paced environment."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Business, Engineering, or related field.",
+      "4-6 years of experience in product management.",
+      "Experience with software development and lifecycle management.",
+      "Proven track record of successful product launches."
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SFCqy1ptCjPglUIoWuV8jUZmjBGcV2SkVg&s"
+  },
+  {
+    "id": 8,
+    "title": "Digital Marketing Specialist",
+    "company": "Marketing Hub",
+    "companyIntroduction": "Marketing Hub is a leading digital marketing agency focused on driving brand awareness and engagement through innovative online marketing strategies.",
+    "type": "Full Time",
+    "experience": "2-4 Years",
+    "location": "Remote",
+    "salary": "1000$-2500$",
+    "date": "5 April 2024",
+    "urgent": false,
+    "interest": 110,
+    "description": "As a digital marketing specialist, you will create and implement marketing campaigns across digital channels to promote brands. You will analyze market data to optimize campaigns and improve customer engagement.",
+    "jobDescription": "This role involves managing SEO, SEM, social media, and email marketing campaigns. You will track campaign performance and adjust strategies to maximize ROI.",
+    "responsibilities": [
+      "Create and manage digital marketing campaigns.",
+      "Optimize campaigns for search engine ranking and engagement.",
+      "Monitor and analyze campaign performance.",
+      "Collaborate with content and design teams.",
+      "Stay up-to-date with the latest trends in digital marketing."
+    ],
+    "skills": [
+      "Experience with SEO, SEM, and Google Analytics.",
+      "Strong knowledge of social media platforms and advertising tools.",
+      "Ability to analyze marketing data and provide actionable insights.",
+      "Good communication and teamwork skills.",
+      "Experience with email marketing platforms."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Marketing, Communications, or related field.",
+      "2-4 years of experience in digital marketing.",
+      "Experience with content creation and strategy.",
+      "Strong analytical skills and attention to detail."
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzk92qOx7c5k5fybjVbUkwg6BGW_ptjgID9A&s"
+  },
+  {
+    "id": 9,
+    "title": "HR Manager",
+    "company": "Human Resource Solutions",
+    "companyIntroduction": "Human Resource Solutions is a professional HR consultancy firm focused on providing talent acquisition and workforce solutions to organizations.",
+    "type": "Full Time",
+    "experience": "5-7 Years",
+    "location": "Onsite",
+    "salary": "1500$-3000$",
+    "date": "1 April 2024",
+    "urgent": true,
+    "interest": 80,
+    "description": "As an HR manager, you will oversee all aspects of human resources within the organization, including recruitment, employee relations, and performance management.",
+    "jobDescription": "The role involves managing the HR department, ensuring compliance with labor laws, and implementing HR policies and procedures.",
+    "responsibilities": [
+      "Lead recruitment and hiring processes.",
+      "Manage employee relations and performance management.",
+      "Ensure compliance with labor laws and regulations.",
+      "Develop and implement HR policies and strategies.",
+      "Provide guidance on employee benefits and compensation."
+    ],
+    "skills": [
+      "Strong knowledge of labor laws and HR best practices.",
+      "Excellent communication and interpersonal skills.",
+      "Ability to handle sensitive situations with discretion.",
+      "Experience with performance management systems.",
+      "Leadership and conflict resolution skills."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Human Resources, Business, or related field.",
+      "5-7 years of experience in human resources.",
+      "Strong problem-solving skills and ability to manage teams.",
+      "Excellent organizational and time-management skills."
+    ],
+    "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-winter-mountains-with-inversion-during-golden-hour-free-image.jpg?w=600&quality=80"
+  },
+  {
+    "id": 10,
+    "title": "Business Analyst",
+    "company": "Data Insights",
+    "companyIntroduction": "Data Insights is a data analytics company helping businesses optimize their operations through data-driven insights and recommendations.",
+    "type": "Full Time",
+    "experience": "2-4 Years",
+    "location": "Onsite",
+    "salary": "1200$-2500$",
+    "date": "28 March 2024",
+    "urgent": false,
+    "interest": 120,
+    "description": "As a business analyst, you will analyze and interpret business data to help organizations make informed decisions. You will work closely with business teams to define requirements and deliver solutions.",
+    "jobDescription": "The role involves gathering and analyzing business requirements, performing data analysis, and creating reports to help stakeholders understand key insights.",
+    "responsibilities": [
+      "Analyze business data and provide actionable insights.",
+      "Collaborate with business teams to define requirements.",
+      "Create reports and presentations for stakeholders.",
+      "Monitor and report on business performance.",
+      "Develop recommendations for process improvements."
+    ],
+    "skills": [
+      "Strong analytical and problem-solving skills.",
+      "Experience with data analysis tools (e.g., Excel, Power BI).",
+      "Good communication and presentation skills.",
+      "Ability to work with cross-functional teams.",
+      "Knowledge of business operations and processes."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Business, Economics, or related field.",
+      "2-4 years of experience as a business analyst.",
+      "Experience with data visualization tools.",
+      "Strong attention to detail and ability to meet deadlines."
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDNAnsS4EPlZEvfTg4vq4RH6uRh2OxQk7YA&s"
+  }
+]

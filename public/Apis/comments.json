@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "user": "Lora Smith",
+            "role": "Admin",
+            "timestamp": "October 11, 2024, 10:00 PM",
+            "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mattis nulla lorem, eget maximus ipsum interdum id. Morbi magna enim, condimentum id dui in, tristique posuere nulla. Vestibulum maximus non magna scelerisque efficitur. Nullam tempor faucibus justo a pulvinar. Duis non tellus pulvinar, finibus quam sed, feugiat enim. Proin eu elit blandit, sollicitudin urna non, pharetra tellus. Etiam et mattis nisi. Nunc rutrum lorem felis, ut tempus augue viverra eget. Suspendisse ac convallis velit. Nam sed sem convallis, sagittis lectus eget, fringilla nisl. Morbi ornare faucibus nisl. Vivamus id odio vel lectus ultricies mattis a quis lorem. Pellentesque eu pretium dui..",
+            "attachments": ["Document.pdf", "Image.jpg"],
+            "profile": "https://img.freepik.com/free-photo/front-view-smiley-business-man_23-2148479583.jpg?t=st=1739604526~exp=1739608126~hmac=0f45b0eeff9dda65807859286ac2b50c9251fda30859b1e3cea164898effde8f&w=1380"
+        },
+        {
+            "user": "Tech Solution",
+            "role": "Company",
+            "timestamp": "October 11, 2024, 10:00 PM",
+            "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mattis nulla lorem, eget maximus ipsum interdum id. Morbi magna enim, condimentum id dui in, tristique posuere nulla. Vestibulum maximus non magna scelerisque efficitur. Nullam tempor faucibus justo a pulvinar. Duis non tellus pulvinar, finibus quam sed, feugiat enim. Proin eu elit blandit, sollicitudin urna non, pharetra tellus. Etiam et mattis nisi. Nunc rutrum lorem felis, ut tempus augue viverra eget. Suspendisse ac convallis velit. Nam sed sem convallis, sagittis lectus eget, fringilla nisl. Morbi ornare faucibus nisl. Vivamus id odio vel lectus ultricies mattis a quis lorem. Pellentesque eu pretium dui.",
+            "attachments": ["Document.pdf", "Image.jpg"],
+            "profile": "https://img.freepik.com/free-photo/portrait-confident-young-woman-smiling_23-2148452672.jpg?t=st=1739687598~exp=1739691198~hmac=afe6c15fc5d1e20fb191659c658c4dedfc95df55baa3a44799c386a1ed6557d8&w=1480"
+        }
+    ]
+  }
+  

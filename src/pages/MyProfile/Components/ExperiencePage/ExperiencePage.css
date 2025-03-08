@@ -1,0 +1,50 @@
+.experience-container {
+    padding: 20px;
+  }
+  
+  .experience-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .experience-divider {
+    margin: 20px 0;
+  }
+  
+  .experience-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .experience-item:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .modal-centered {
+    background: white;
+    padding: 20px;
+    margin: auto;
+    width: 400px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .modal-input {
+    margin-bottom: 10px;
+  }
+  
+  .modal-save-button {
+    align-self: flex-end;
+  }
+  

@@ -1,0 +1,32 @@
+[
+  {
+    "ticketNo": "56431",
+    "subject": "In publishing and graphic design",
+    "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document.",
+    "date": "12/12/2024",
+    "status": "Approved",
+    "requester": "John Doe",
+    "latestUpdate": "2024-01-10",
+    "lastReplier": "Sarah Lee",
+    "totalReplies": 3,
+    "files": [
+      { "name": "design_mockup.pdf", "sharedBy": "Sarah Lee", "date": "2024-01-05" },
+      { "name": "requirements.docx", "sharedBy": "John Doe", "date": "2024-01-07" }
+    ]
+  },
+  {
+    "ticketNo": "56432",
+    "subject": "Website Issue",
+    "description": "Cannot access my dashboard, getting a 404 error when trying to log in.",
+    "date": "13/12/2024",
+    "status": "Pending",
+    "requester": "Emily Brown",
+    "latestUpdate": "2024-02-02", 
+    "lastReplier": "Tech Support",
+    "totalReplies": 5,
+    "files": [
+      { "name": "error_screenshot.png", "sharedBy": "Emily Brown", "date": "2024-02-01" },
+      { "name": "debug_log.txt", "sharedBy": "Tech Support", "date": "2024-02-02" }
+    ]
+  }
+]

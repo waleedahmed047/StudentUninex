@@ -1,0 +1,77 @@
+.portfolio-container {
+  padding: 20px;
+}
+.portfolio-title {
+  color: var(--text-color);
+}
+.portfolio-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: start;
+  margin-top: 20px;
+}
+
+.portfolio-item {
+  width: calc(33.333% - 20px);
+  box-sizing: border-box;
+  text-align: center;
+  cursor: pointer;
+  /* background: #f9f9f9; */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  transition: transform 0.3s;
+}
+
+.portfolio-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.portfolio-item h3 {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.portfolio-item:hover {
+  transform: scale(1.05); /* Add a hover effect */
+}
+
+.modal-content {
+  background: white;
+  padding: 20px;
+  margin: auto;
+  max-width: 500px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.modal-cover-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.text-field {
+  color: var(--text-color) !important;
+}
+.text-field .MuiInputBase-input {
+  color: var(--text-color) !important;
+}
+
+.text-field .MuiInputBase-inputMultiline {
+  color: var(--text-color) !important;
+}
+
+.text-field .MuiInputBase-input::placeholder {
+  color: var(--text-color) !important;
+}
